@@ -93,6 +93,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=X3n0n78&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
   <br>
@@ -100,6 +101,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=X3n0n78&theme=radical&hide_border=true" alt="Streak" />
 </div>
+
 ## 🏆 GitHub Achievements
 
 - 🦈 **Pull Shark** x2 - Active contributor to open source projects
