@@ -96,7 +96,7 @@
 
 <div align="center">
 
-  ![X3n0n78's GitHub Stats](https://github-readme-stats.vercel.app/api?username=X3n0n78&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![X3n0n78's GitHub Stats](https://github-readme-stats.vercel.app/api?username=x3n0n78)](https://github.com/x3n0n78/github-readme-stats))
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X3n0n78&layout=compact&theme=radical&hide_border=true)
 
