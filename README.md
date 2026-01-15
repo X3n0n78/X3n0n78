@@ -94,13 +94,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=X3n0n78&theme=tokyonight)](https://git.io/streak-stats)" alt="Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3n0n78&layout=compact&theme=radical&hide_border=true" alt="Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=X3n0n78&theme=radical&hide_border=true" alt="Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=X3n0n78&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Achievements
 
