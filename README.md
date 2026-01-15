@@ -94,7 +94,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=X3n0n78&theme=tokyonight)](https://git.io/streak-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=X3n0n78)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ## 🏆 GitHub Achievements
 
