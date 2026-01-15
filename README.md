@@ -49,10 +49,10 @@
 
 ### Key Features:
 - 🎨 **High-Fidelity Network Graph**: 10,000+ nodes at 60fps using PixiJS (WebGL) with neon cyber-aesthetic effects
-- 🔍 **Deep Packet Inspection**: Custom virtual scroller handling 100,000+ events with Wireshark-style JSON tree views
+- 🔍 **Deep Packet Inspection**: Custom virtual scroller handling 100,000+ events with Wireshark-style JSON tree views (Delays may occur)
 - 🌍 **3D Geo-Intelligence**: Interactive Holomap for real-time IP geolocation and global traffic flow visualization
 - ⚡ **Force-Directed Physics**: D3-compatible physics engine for dynamic, real-time node layout
-- 🛡️ **Live Threat Detection**: Automated heuristics for DNS Tunneling, Port Scans, and Anomalous Payloads
+- 🛡️ **Live Threat Detection**: Automated heuristics for DNS Tunneling, Port Scans, and Anomalous Payloads (Alpha)
 - 🎯 **Protocol Intelligence**: Instant visual identification of traffic types (TCP, UDP, ICMP)
 
 ### Technical Highlights:
