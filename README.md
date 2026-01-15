@@ -93,16 +93,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=X3n0n78&show_icons=true&theme=radical&hide_border=true" height="180" alt="X3n0n78's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3n0n78&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=X3n0n78&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3n0n78&layout=compact&theme=radical&hide_border=true" alt="Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=X3n0n78&theme=radical&hide_border=true" alt="Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=X3n0n78&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 GitHub Achievements
 
 - 🦈 **Pull Shark** x2 - Active contributor to open source projects
